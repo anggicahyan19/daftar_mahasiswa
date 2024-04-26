@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "346221517030",
+    "firebase_url": "https://mahasiswa-app-e50bc-default-rtdb.firebaseio.com",
+    "project_id": "mahasiswa-app-e50bc",
+    "storage_bucket": "mahasiswa-app-e50bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346221517030:android:98445e19552a48699f0327",
+        "android_client_info": {
+          "package_name": "com.example.daftar_mahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1amtfOBOxeLeKkYqYh-n15JFyFareHJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
